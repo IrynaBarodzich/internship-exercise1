@@ -3,3 +3,7 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.btn-default:hover{
+    background-color: #5cb85c;
+}
